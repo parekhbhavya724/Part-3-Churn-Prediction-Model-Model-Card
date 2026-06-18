@@ -1,0 +1,16 @@
+feature,importance
+num__recency_days,1.7440159203000953
+num__monetary_180d,0.4406894933329105
+cat__preferred_category_Fragrance,0.3841336949753222
+cat__acquisition_channel_Organic,0.37802203712017735
+num__return_rate_180d,0.34191319345052623
+cat__loyalty_tier_Platinum,0.3153926675374402
+num__ticket_count_90d,0.3017468145526439
+num__negative_ticket_rate_90d,0.3005308035541405
+num__last_visit_days_ago,0.29395228033884163
+num__avg_discount_pct_180d,0.29064531446090425
+cat__preferred_category_Baby Care,0.28220599024741577
+num__sessions_30d,0.2047362498952476
+cat__preferred_category_Skin Care,0.1900113252172586
+num__campaign_clicks_30d,0.17705378916169778
+num__frequency_180d,0.16888383418021433
